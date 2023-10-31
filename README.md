@@ -1,0 +1,2 @@
+# CVIP_GOLDENTASK_PHASE2
+Phase2 Project_Speech_Emotion_Recognition
